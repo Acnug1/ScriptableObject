@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf7ed514d9b5fe349bd623bfca0d34c4, type: 3}
+  m_Name: Goods1
+  m_EditorClassIdentifier: 
+  Label: "\u041C\u0435\u0447 \u043F\u043B\u0430\u043C\u0435\u043D\u0438"
+  Description: "\u0438\u0437 \u043F\u043B\u0430\u043C\u0435\u043D\u0438"
+  Price: 100
+  _damage: 10
